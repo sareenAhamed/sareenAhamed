@@ -7,7 +7,7 @@ Bachelor of Information Communication Technology Hons. in Software Technology @ 
 - 👯 I’m looking to collaborate on Web Application Development
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/hareesh-r/](https://www.linkedin.com/in/sareen-ahamed/))
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sareen-ahamed/)
 
 
 ### I code in
